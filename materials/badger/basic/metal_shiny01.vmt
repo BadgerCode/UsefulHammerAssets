@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	//$basetexture "badger/basic/metal_shiny01"
+	$basetexture "Models/props_interiors/sink_industrial01"
+	$bumpmap "effects/flat_normal"
+	$surfaceprop "metal"
+	$halflambert 1
+	$phong 1
+	$phongboost ".25"
+	$phongexponent 30
+	$BASEMAPLUMINANCEPHONGMASK 1
+	$phongfresnelranges "[30 30 60]"
+	$detail "detail\dt_ssteel1"
+	$detailscale 32
+	$detailblendfactor ".3"
+	$detailblendmode 0
+}

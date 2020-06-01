@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	$basetexture "badger/basic/metal_shiny02"
+	$bumpmap "effects/flat_normal"
+	$halflambert 1
+	$phong 1
+	$phongboost 1
+	$phongexponent 30
+	$BASEMAPLUMINANCEPHONGMASK 1
+	$phongfresnelranges "[30 30 60]"
+	$detail "detail\dt_ssteel1"
+	$detailscale 8
+	$detailblendfactor ".15"
+	$detailblendmode 0
+}

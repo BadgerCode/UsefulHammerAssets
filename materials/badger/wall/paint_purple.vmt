@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "badger\wall\paint_purple"
+	"$surfaceprop" "plaster"
+	"$detail" "badger\wall\paint_detail"
+	"$detailblendfactor" ".3"
+	"$detailscale" "5"
+} // This is a modified material from Realworld Textures Version 2 - Made by TopHATTwaffle

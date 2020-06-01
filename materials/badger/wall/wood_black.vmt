@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "badger\wall\wood_black"
+	"$surfaceprop" "wood"
+} // Modified CS:GO texture

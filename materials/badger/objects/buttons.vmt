@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "badger/objects/lift_buttons_updownstop"
+	"$translucent" 1
+}
