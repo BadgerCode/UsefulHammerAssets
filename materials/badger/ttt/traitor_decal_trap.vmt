@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "badger/ttt/traitor_decal_trap"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.250"
+}
